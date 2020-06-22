@@ -1,4 +1,4 @@
-###FLEX PANEL GALLERY
+### FLEX PANEL GALLERY
 
 **Transform image width, textual content on click event**
 
